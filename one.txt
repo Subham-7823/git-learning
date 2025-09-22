@@ -3,3 +3,13 @@ this is first file in three
 Add another folder to commit
 
 Add another new file
+
+First Step: One time setup
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+git config --list
+
+Second Step:Start a Repo
+git init                  
+git clone <url>           
+
