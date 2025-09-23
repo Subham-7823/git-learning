@@ -13,7 +13,7 @@ Second Step:Start a Repo
 git init                  
 git clone <url>     
 
-Thitd Step:Working with Files
+Third Step:Working with Files
 git status              
 git add <file>           
 git add .                
