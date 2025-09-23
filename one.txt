@@ -11,5 +11,7 @@ git config --list
 
 Second Step:Start a Repo
 git init                  
-git clone <url>           
+git clone <url>     
+
+Thitd Step:Working with Files
 
