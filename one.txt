@@ -14,4 +14,7 @@ git init
 git clone <url>     
 
 Thitd Step:Working with Files
-
+git status              
+git add <file>           
+git add .                
+git commit -m "message"  
