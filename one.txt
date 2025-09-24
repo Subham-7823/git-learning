@@ -27,3 +27,7 @@ git checkout -b <name>
 git merge <branch>
 
 
+Fifth Step: Undo/Fix Mistakes
+git reset <file>         
+git reset --soft HEAD~1  
+git checkout -- <file>
