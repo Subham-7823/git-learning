@@ -30,3 +30,9 @@ git merge <branch>
 Fifth Step: Connect to Remote
 git remote add origin<url>
 git remote -v
+
+Sixth Step:Push and Pull
+git push -u origin main  #for first push
+git push                 # Push changes
+git pull                 # Get latest changes from remote
+
