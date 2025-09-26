@@ -36,3 +36,10 @@ git push -u origin main  #for first push
 git push                 # Push changes
 git pull                 # Get latest changes from remote
 
+Sevent Step: Undo/Fix
+git restore <file>            # Discard file changes
+git reset <file>              # Unstage file
+git reset --hard HEAD         # Reset all changes 
+git revert <commit_id>        # Undo commit safely
+
+
