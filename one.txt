@@ -4,6 +4,7 @@ Add another folder to commit
 
 Add another new file
 new commit is going to be made
+Another  commit is going to be made
 
 First Step: One time setup
 git config --global user.name "Your Name"
